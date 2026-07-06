@@ -128,7 +128,7 @@ fruit-classification-mobilenetv2-flask/
 Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/fruit-classification-mobilenetv2-flask.git
+git clone https://github.com/sonymochleviansyah/fruit-classification-mobilenetv2-flask.git
 ```
 
 Masuk ke folder project
@@ -205,7 +205,7 @@ Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
 
 **Soni Moch Leviansyah**
 
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/sonymochleviansyah
 
 ---
 
